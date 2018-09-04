@@ -1,0 +1,5 @@
+[40866] ruid = 1000, euid = 1000, suid = 1000
+{40865} uid: 1000, euid: 1000
+sh{40867} uid: 1000, euid: 1000
+bash4{40868} uid: 1000, euid: 1000
+dash{40869} uid: 1000, euid: 1000

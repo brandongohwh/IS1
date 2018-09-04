@@ -1,0 +1,6 @@
+[25046] ruid = 1000, euid = 0, suid = 0
+{25045} uid: 1000, euid: 0
+sh{25047} uid: 1000, euid: 0
+bash4{25048} uid: 1000, euid: 1000
+ksh{25049} uid: 1000, euid: 0
+dash{25052} uid: 1000, euid: 0

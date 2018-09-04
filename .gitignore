@@ -1,0 +1,10 @@
+
+*.log
+*.pygtex
+*.aux
+*.gz
+*.toc
+*.pygtex
+*.pygstyle
+*.out
+*.synctex(busy)
