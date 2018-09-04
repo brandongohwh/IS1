@@ -6,6 +6,7 @@ All labs were performed on Ubuntu 12.04 LTS. (Current labs will be phased out by
 ## Folder Contents
 
 -Root
+
 |---Instruction Manual for Setting up VM
 
 |---Lecture Notes & Labs
@@ -15,9 +16,9 @@ All labs were performed on Ubuntu 12.04 LTS. (Current labs will be phased out by
 |---Compiled PDF of required assignments
 
    |---Separate PDF of required assignments
-
+   
    |---Source code (Requires all images to be in the same folder to compile)
-
+   
    |---Images
    
 
