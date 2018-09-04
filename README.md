@@ -7,12 +7,19 @@ All labs were performed on Ubuntu 12.04 LTS. (Current labs will be phased out by
 
 -Root
 |---Instruction Manual for Setting up VM
+
 |---Lecture Notes & Labs
+
 |---Additional resources other sources
+
 |---Compiled PDF of required assignments
+
    |---Separate PDF of required assignments
+
    |---Source code (Requires all images to be in the same folder to compile)
+
    |---Images
+   
 
 ## Acknowledgements
 Special Thanks to the following persons/groups for the following resources:
@@ -27,7 +34,7 @@ Special Thanks to the following persons/groups for the following resources:
 ## Copyright
 All SEED Labs resources are governed by the following copyright by Wenliang Du and have been reproduced here:
 
-> Copyright &copy 2006 - 2014 Wenliang Du, Syracuse University.
+> Copyright © 2006 - 2014 Wenliang Du, Syracuse University.
 > The development of this document is/was funded by three grants from the US National Science Foundation: Awards No. 0231122 and 0618680 from TUES/CCLI and Award No. 1017771 from Trustworthy Computing. Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation. A copy of the license can be found at http://www.gnu.org/licenses/fdl.html.
 
 All other copyrights belong to the respective publishers and holders.
