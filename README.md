@@ -4,23 +4,16 @@ This module is an independent research project based off the course CIS/CSE643: 
 All labs were performed on Ubuntu 12.04 LTS. (Current labs will be phased out by May 2019 and will have been replaced by Ubuntu 16.04 LTS)
 
 ## Folder Contents
-
+```
 -Root
-
 |---Instruction Manual for Setting up VM
-
 |---Lecture Notes & Labs
-
 |---Additional resources other sources
-
 |---Compiled PDF of required assignments
-
-   |---Separate PDF of required assignments
-   
+   |---Separate PDF of required assignments 
    |---Source code (Requires all images to be in the same folder to compile)
-   
    |---Images
-   
+```
 
 ## Acknowledgements
 Special Thanks to the following persons/groups for the following resources:
